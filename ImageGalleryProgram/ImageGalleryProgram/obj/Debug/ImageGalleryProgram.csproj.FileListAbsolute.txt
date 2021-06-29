@@ -1,0 +1,6 @@
+C:\Users\divyashree.chatra\source\repos\ImageGalleryProgram\ImageGalleryProgram\bin\Debug\ImageGalleryProgram.exe.config
+C:\Users\divyashree.chatra\source\repos\ImageGalleryProgram\ImageGalleryProgram\bin\Debug\ImageGalleryProgram.exe
+C:\Users\divyashree.chatra\source\repos\ImageGalleryProgram\ImageGalleryProgram\bin\Debug\ImageGalleryProgram.pdb
+C:\Users\divyashree.chatra\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.exe
+C:\Users\divyashree.chatra\source\repos\ImageGalleryProgram\ImageGalleryProgram\obj\Debug\ImageGalleryProgram.pdb
